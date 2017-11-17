@@ -1,11 +1,12 @@
-https://stackoverflow.com/questions/45805411/asp-net-core-2-0-authentication-middleware
-https://stackoverflow.com/questions/31464359/how-do-you-create-a-custom-authorizeattribute-in-asp-net-core/31465227#31465227
-https://docs.microsoft.com/en-us/aspnet/core/migration/1x-to-2x/identity-2x
-https://blogs.msdn.microsoft.com/kaevans/2016/04/13/azure-web-app-client-certificate-authentication-with-asp-net-core-2/
-https://github.com/xavierjohn/ClientCertificateMiddleware
-https://blog.zensoftware.co.uk/2014/10/22/how-to-create-a-self-signed-certificate-using-certreq/
-https://blog.mehraban.com.au/2017/05/03/client-certificates-aspnetcore-azure-webapp/
-http://blog.trustmyroot.com/tag/certreq/
-https://github.com/dotnet/cli/issues/6516
-https://docs.microsoft.com/en-us/azure/app-service/app-service-web-configure-tls-mutual-auth
-https://github.com/aspnet/Docs/issues/2384
+# Links
+- https://stackoverflow.com/questions/45805411/asp-net-core-2-0-authentication-middleware
+- https://stackoverflow.com/questions/31464359/how-do-you-create-a-custom-authorizeattribute-in-asp-net-core/31465227#31465227
+- https://docs.microsoft.com/en-us/aspnet/core/migration/1x-to-2x/identity-2x
+- https://blogs.msdn.microsoft.com/kaevans/2016/04/13/azure-web-app-client-certificate-authentication-with-asp-net-core-2/
+- https://github.com/xavierjohn/ClientCertificateMiddleware
+- https://blog.zensoftware.co.uk/2014/10/22/how-to-create-a-self-signed-certificate-using-certreq/
+- https://blog.mehraban.com.au/2017/05/03/client-certificates-aspnetcore-azure-webapp/
+- http://blog.trustmyroot.com/tag/certreq/
+- https://github.com/dotnet/cli/issues/6516
+- https://docs.microsoft.com/en-us/azure/app-service/app-service-web-configure-tls-mutual-auth
+- https://github.com/aspnet/Docs/issues/2384
